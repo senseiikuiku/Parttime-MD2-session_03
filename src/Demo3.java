@@ -12,7 +12,8 @@ public class Demo3 {
 
         int[][] arr = new int[n][m];
         do {
-            System.out.println("\n1. Nhập vào các phần tử của mảng");
+            System.out.println("\n==========Menu==========");
+            System.out.println("1. Nhập vào các phần tử của mảng");
             System.out.println("2. Hiển thị các giá trị của phần tử trong mảng");
             System.out.println("3. Tính tổng các phần tử trong mảng");
             System.out.println("4. In ra các phần tử có giá trị chẵn trong mảng");
